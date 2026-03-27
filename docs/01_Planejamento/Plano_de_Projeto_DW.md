@@ -16,7 +16,7 @@ A equipe principal do projeto é composta por especialistas dedicados à constru
 | Papel | Nome | Responsabilidades |
 | :--- | :--- | :--- |
 | Product Owner (PO) | Rodrigo Silva | Especialista da Controladoria em dados, responsável pela visão do produto, validação das regras de negócio e priorização do backlog. |
-| Scrum Master e Especialista | Marcos Faria | Especialista em BI e banco de dados PostgreSQL. Responsável por conduzir os ritos ágeis, remover impedimentos e atuar na modelagem e construção do banco. |
+| Scrum Master e Especialista | Lucas e Vinicius | Especialista em BI e banco de dados PostgreSQL. Responsável por conduzir os ritos ágeis, remover impedimentos e atuar na modelagem e construção do banco. |
 | Especialista em Controladoria e Dados | Johnatan Ferraz | Especialista em eSolution (SQL Server) e mapeamento de dados. |
 | Analista de BI | Lucas Mello | Responsável por alterar as conexões do BI, telas e front-end. |
 | PMO de Projetos | Daniella Alamy | Responsável pelo acompanhamento gerencial do projeto, garantindo o alinhamento com a estratégia da empresa através de reuniões semanais. |
@@ -28,7 +28,7 @@ Para garantir a fluidez e o alinhamento constante da equipe, os seguintes ritos 
 
 | Rito | Duração | Frequência | Participantes |
 | :--- | :--- | :--- | :--- |
-| Daily Stand-up | 15 minutos | Diária | Rodrigo, Marcos, Johnatan, Lucas, Artur |
+| Daily Stand-up | 15 minutos | Diária | Rodrigo, Johnatan, Lucas, Artur |
 | Sprint Planning | 2 horas | A cada 15 dias | Toda a equipe técnica |
 | Sprint Review | 1 hora e 30 minutos | Ao final de cada Sprint | Toda a equipe técnica e PMO |
 | Weekly com PMO | 30 minutos | Semanal | Toda a equipe e Daniella Alamy |
