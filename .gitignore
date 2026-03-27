@@ -1,0 +1,28 @@
+# Binaries
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# IDE
+.vscode/
+.vs/
+*.user
+*.sln.docstates
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
