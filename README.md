@@ -100,7 +100,7 @@ DW/
 
 ## 🔄 Ritos Ágeis
 
-- **Daily Stand-up:** 15 min, diária (8:30 - 18:00, GMT-3)
+- **Daily Stand-up:** 15 min, diária (8:30 - 8:45, GMT-3)
 - **Sprint Planning:** 2h, a cada 15 dias
 - **Sprint Review & Retrospective:** 1h 30m, ao final de cada Sprint
 - **Weekly com PMO:** 30 min, semanal com Daniella Alamy
