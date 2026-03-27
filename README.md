@@ -13,7 +13,7 @@
 | Papel | Nome | Responsabilidade |
 | :--- | :--- | :--- |
 | **Product Owner** | Rodrigo Silva | Especialista da Controladoria em dados, visão do produto e regras de negócio |
-| **Scrum Master / Especialista** | Marcos Faria | Condução ágil, arquitetura do DW e desenvolvimento PostgreSQL |
+| **Scrum Master / Especialista** | Lucas e vinicius | Condução ágil, arquitetura do DW e desenvolvimento PostgreSQL |
 | **Especialista Controladoria e Dados** | Johnatan Ferraz | Mapeamento do eSolution (SQL Server) e análise de dados |
 | **Analista de BI** | Lucas Mello | Migração das conexões de BI e ajustes no front-end analítico |
 | **Programador / Engenheiro de Dados** | Artur Lino | Desenvolvimento de rotinas de ETL e integração (4h/dia) |
@@ -78,7 +78,7 @@ DW/
 1. Consulte o **`docs/01_Planejamento/Termo_Abertura_DW.md`** para entender o escopo e objetivos.
 2. Acompanhe o progresso através do **`docs/01_Planejamento/Plano_de_Projeto_DW.md`** que detalha as 6 Sprints.
 
-### Para o Arquiteto de Dados (Marcos Faria)
+### Para os responsaveis pelos dados  (Lucas\Vinicius)
 
 1. Revise o **`docs/02_Arquitetura/Dicionario_e_Plano_ETL.md`** para o design das tabelas Fato e Dimensão.
 2. Valide as transformações de dados propostas.
